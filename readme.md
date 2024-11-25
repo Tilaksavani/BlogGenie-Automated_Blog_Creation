@@ -4,7 +4,7 @@
 This project aims to create an automated blog creation system using the Gemini Pro language model and various agents orchestrated by AutoGen. The system includes a Telegram bot for user interaction, a multi-agent setup for blog creation, integration with Notion for storing drafts, and a notification system for approval and publishing.
 
 ## Architecture
-![System Architecture](https://github.com/vanshpatelx/AutomatedBlogCreationSystemWithApproval/blob/main/img/img.png)
+![System Architecture](https://github.com/Tilaksavani/BlogGenie-Automated_Blog_Creation/blob/main/img/img.png)
 
 
 ## How Works ?
@@ -35,7 +35,7 @@ This project aims to create an automated blog creation system using the Gemini P
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/vanshpatelx/AutomatedBlogCreationSystemWithApproval
+    git clone https://github.com/Tilaksavani/AutomatedBlogCreationSystemWithApproval
     cd AutomatedBlogCreationSystemWithApproval
     ```
 
